@@ -1,6 +1,6 @@
 {
   "name": "azure_provision",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "provision to azure cloud",
   "main": "provisionComposer.js",
   "license": "MIT",
